@@ -1,0 +1,26 @@
+{
+  "forms": [
+    {
+      "name": "monthlyThemeWidget",
+      "displayName": "$string:monthlyThemeWidget_display_name",
+      "description": "$string:monthlyThemeWidget_desc",
+      "src": "./ets/monthlythemewidget/pages/MonthlyThemeWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": false,
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "00:00",
+      "updateDuration": 0,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "2*4"
+      ]
+    }
+  ]
+}

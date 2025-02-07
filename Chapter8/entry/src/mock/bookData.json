@@ -1,0 +1,48 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 1,
+      "name": "红楼梦",
+      "author": "曹雪芹",
+      "imageLink": "https://img1.doubanio.com/view/subject/s/public/s1070959.jpg",
+      "recommendation": "都云作者痴，谁解其中味？"
+    },
+    {
+      "id": 2,
+      "name": "活着",
+      "author": "余华",
+      "imageLink": "https://img9.doubanio.com/view/subject/s/public/s29869926.jpg",
+      "recommendation": "生的苦难与伟大"
+    },
+    {
+      "id": 3,
+      "name": "哈利·波特",
+      "author": "J.K.罗琳",
+      "imageLink": "https://img9.doubanio.com/view/subject/s/public/s29101586.jpg",
+      "recommendation": "从9¾站台开始的旅程"
+    },
+    {
+      "id": 4,
+      "name": "1984",
+      "author": "乔治·奥威尔",
+      "imageLink": "https://img1.doubanio.com/view/subject/s/public/s4371408.jpg",
+      "recommendation": "栗树荫下，我出卖你，你出卖我"
+    },
+    {
+      "id": 5,
+      "name": "三体",
+      "author": "刘慈欣",
+      "imageLink": "https://img9.doubanio.com/view/subject/s/public/s28357056.jpg",
+      "recommendation": "地球往事三部曲"
+    },
+    {
+      "id": 6,
+      "name": "百年孤独",
+      "author": "加西亚·马尔克斯",
+      "imageLink": "https://img1.doubanio.com/view/subject/s/public/s27237850.jpg",
+      "recommendation": "魔幻现实主义文学代表作"
+    }
+  ],
+  "message": "success"
+}
